@@ -4,9 +4,15 @@
 
 ###  Обо мне:
 
+<<<<<<< HEAD
 Я начинающий тестировщик.
 
 - 📫 Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+=======
+Я начинающий тестировщик. У меня нет большого опыта тестирования, но есть большое желание.
+
+- 📫 Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:uu12@yandex.ru)
+>>>>>>> 5cc9d8a79468b40973978bac0f22b1a4ab87be46
 
 ---
 
